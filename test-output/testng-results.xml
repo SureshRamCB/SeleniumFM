@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-25T15:36:42 IST" name="Default suite" finished-at="2020-06-25T15:36:44 IST" duration-ms="2131">
+    <groups>
+    </groups>
+    <test started-at="2020-06-25T15:36:42 IST" name="Default test" finished-at="2020-06-25T15:36:44 IST" duration-ms="2131">
+      <class name="com.selenium.utilities.Reporting">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.selenium.utilities.Reporting@45018215]" started-at="2020-06-25T15:36:42 IST" name="beforeTest" finished-at="2020-06-25T15:36:43 IST" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.selenium.utilities.Reporting@45018215]" started-at="2020-06-25T15:36:43 IST" name="beforeMethod" finished-at="2020-06-25T15:36:43 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.selenium.utilities.Reporting.testMethod1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod1()[pri:0, instance:com.selenium.utilities.Reporting@45018215]" started-at="2020-06-25T15:36:43 IST" name="testMethod1" finished-at="2020-06-25T15:36:43 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.selenium.utilities.Reporting@45018215]" started-at="2020-06-25T15:36:43 IST" name="beforeMethod" finished-at="2020-06-25T15:36:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.selenium.utilities.Reporting.testMethod2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod2()[pri:0, instance:com.selenium.utilities.Reporting@45018215]" started-at="2020-06-25T15:36:43 IST" name="testMethod2" finished-at="2020-06-25T15:36:43 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="aftreTest()[pri:0, instance:com.selenium.utilities.Reporting@45018215]" started-at="2020-06-25T15:36:43 IST" name="aftreTest" finished-at="2020-06-25T15:36:44 IST" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftreTest -->
+      </class> <!-- com.selenium.utilities.Reporting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

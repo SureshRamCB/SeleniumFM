@@ -1,0 +1,17 @@
+2020-06-24 13:43:01,935 [main] INFO Selenium - Url is opend
+2020-06-24 13:43:03,349 [main] INFO Selenium - Enterd User name
+2020-06-24 13:43:03,576 [main] INFO Selenium - Enterd password
+2020-06-24 13:43:10,289 [main] INFO Selenium - clicked on login Button
+2020-06-24 13:43:10,329 [main] INFO Selenium - login test passed and Title verefied
+2020-06-24 15:49:21,848 [main] INFO Selenium - Url is opend
+2020-06-24 15:49:22,571 [main] INFO Selenium - Enterd User name
+2020-06-24 15:49:22,655 [main] INFO Selenium - Enterd password
+2020-06-24 15:49:32,427 [main] INFO Selenium - clicked on login Button
+2020-06-24 15:49:32,446 [main] INFO Selenium - login test passed and Title verefied
+2020-06-25 11:12:53,310 [main] INFO Selenium - Browser launched
+2020-06-25 11:12:58,599 [main] INFO Selenium - Application launched sucessfully
+2020-06-25 11:12:59,461 [main] INFO Selenium - Url is opend
+2020-06-25 11:13:00,088 [main] INFO Selenium - Enterd User name
+2020-06-25 11:13:00,338 [main] INFO Selenium - Enterd password
+2020-06-25 11:13:05,428 [main] INFO Selenium - clicked on login Button
+2020-06-25 11:13:05,461 [main] INFO Selenium - login test passed and Title verefied
